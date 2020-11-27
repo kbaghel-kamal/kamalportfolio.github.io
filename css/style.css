@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    color:  white;
+
+}
+ body{
+    background:linear-gradient(rgba(14, 13, 13, 0.925), rgba(136, 87, 87, 0.651)) ,url(../img/bg.jpg.jpg)no-repeat center center/cover;
+  
+}
+.navbar{
+    background-color: rgb(228, 189, 225);
+}
+.h6{
+    text-align: center;
+}
+.img{
+    border-radius: 120px;
+}
+.icon{
+    padding-top: 20px;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+}
+
+
+.tportfolio 
+{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.row1 ul {
+   
+    list-style: none;
+    margin-top: 23px;
+}
+
+.row1 ul li a {
+    text-align: center;
+    color: black;
+}
+
+.row1 ul li a:hover {
+    color:grey;
+}
+
+.foot {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+
+.clg{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+
+}
+.vbtn{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+.name{
+    font-size: 40px;
+    text-align: center;
+}
+
+.bg-transparent{
+    background-color: violet !important;
+}
